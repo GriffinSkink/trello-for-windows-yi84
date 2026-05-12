@@ -1,4 +1,4 @@
-# 
+# Enhance Trello for Windows with secure Trello for Windows Integration | notifications + search-functionality, the #1 integration. Includes notifications and search-functionality
 
 
 
